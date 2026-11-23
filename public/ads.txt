@@ -1,0 +1,3 @@
+# Replace this placeholder with the EXACT ads.txt line provided in your AdSense account.
+# google.com, pub-YOUR_16_DIGIT_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
+# Ads are disabled until valid publisher/slot IDs and a certified CMP integration are configured.
